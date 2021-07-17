@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Snake AI 2.0/1.0.0": {
+        "runtime": {
+          "Snake AI 2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snake AI 2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
